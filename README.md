@@ -199,6 +199,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion official MCP server
 - **[Notte](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** - Leverage Notte Web AI agents & cloud browser sessions for scalable browser automation & scraping workflows
 - **[Norman Finance](https://github.com/norman-finance/norman-mcp-server)** - MCP server for managing accounting and taxes with Norman Finance.
+- **[OursMeme](https://ours.meme/agent.md)** ☁️ - Official [OURS](https://ours.meme) BNB Chain perpetual DEX remote MCP server (`https://devapi.ours.meme/api/mcp`) with 48 tools for live Pyth BTC/ETH/XAU (24/7 Gold) zero-spread quotes, isolated Meme LP vaults, and non-custodial 0%-entry/exit-fee order building.
 - **[OceanBase](https://github.com/oceanbase/mcp-oceanbase)** - MCP Server for OceanBase database and its tools
 - **[Octagon](https://github.com/OctagonAI/octagon-mcp-server)** - Deliver real-time investment research with extensive private and public market data.
 - **[Octocode](https://github.com/bgauryy/octocode-mcp)** - Leading AI-powered code assistant for advanced research, analysis and discovery across GitHub Repositories in large ecosystems
